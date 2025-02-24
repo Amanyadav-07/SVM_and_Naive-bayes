@@ -58,7 +58,7 @@ This notebook explains **concepts, differences, and mathematical foundations** o
 🎯 **Follow these steps to get started:**
 1. 🔹 Clone the repository:
    ```sh
-   git clone [SVM_Naive_Bayes_Repo](https://github.com/Amanyadav-07/SVM_and_Naive-bayes.git)
+   git clone (https://github.com/Amanyadav-07/SVM_and_Naive-bayes.git)
    ```
 2. 🔹 Open the notebooks in **Jupyter Notebook** or **Google Colab**.
 3. 🔹 Run the practical examples and modify the theory sections to enhance understanding.
